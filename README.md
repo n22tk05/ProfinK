@@ -1,4 +1,4 @@
-# Crypto & Macro Data Collection Pipeline (ProKit)
+# Crypto & Macro Data Collection Pipeline (ProfinK)
 
 Pipeline Python thu thập, làm giàu và chuẩn hóa dữ liệu đa khung thời gian cho Crypto, kết hợp dữ liệu kinh tế vĩ mô và 12 chỉ báo kỹ thuật theo đúng đặc tả tại [DataInfo.txt](docs/DataInfo.txt).
 
