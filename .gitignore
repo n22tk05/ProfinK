@@ -1,1 +1,7 @@
 /docs
+/data
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
